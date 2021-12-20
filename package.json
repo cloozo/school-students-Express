@@ -4,12 +4,21 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-   "test": "app.js"
+    "test": "app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
-    "nodemon": "^2.0.15"
-  }
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloozo/school-students-Express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cloozo/school-students-Express/issues"
+  },
+  "homepage": "https://github.com/cloozo/school-students-Express#readme"
 }
