@@ -1,0 +1,53 @@
+const students = [
+  {
+    id: 1,
+    name: "Matt Celestin",
+    email: "marc@gmail.com",
+    status: "active",
+    gender: "male",
+    age: 34,
+    salary: 35000,
+    school: "Florida State University",
+  },
+  {
+    id: 2,
+    name: "Paul Daniel",
+    email: "pauldaniel1112c@gmail.com",
+    status: "active",
+    gender: "male",
+    age: 34,
+    salary: 55000,
+    school: "Florida International University",
+  },
+  {
+    id: 3,
+    name: "Gary Harmstrong",
+    email: "garmst@gmail.com",
+    status: "active",
+    age: 33,
+    salary: 55000,
+    school: "Florida International University",
+  },
+  {
+    id: 4,
+    name: "Samuel Phelps",
+    email: "samph@gmail.com",
+    status: "inactive",
+    gender: "male",
+    age: 34,
+    salary: 65000,
+    school: "Florida International University",
+  },
+  {
+    id: 5,
+    name: "Evelyne Gibson",
+    email: "evelyne@gmail.com",
+    status: "inactive",
+    gender: "female",
+    age: 54,
+    salary: 75000,
+    school: "Florida Atlantic University",
+  },
+];
+
+module.exports = students;
